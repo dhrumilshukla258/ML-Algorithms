@@ -1,7 +1,7 @@
 # ML-Algorithms
 
 The project was part of my Masters program where I used various<br/>
-ML Algorithms for prediction from various datasets.  
+Machine learning Algorithms for prediction from various datasets.  
  * **Linear Regression** for predicting House Prices.<br/>
  * **Logistic Regression** for prediction of student result.<br/>
  * **Navie Bayes** for Spam Filtering.<br/>
