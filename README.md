@@ -10,4 +10,4 @@ ML Algorithms for prediction from various datasets.
  * **Neural Networks** for predicting a simple division function.<br/>
  * Tensorflow library was used to detect Keras dataset of numbers from (0 to 10).
 
-All the algorithms are written from scratch using Numpy and Pandas
+All the algorithms are written from scratch using Numpy and Pandas library.
